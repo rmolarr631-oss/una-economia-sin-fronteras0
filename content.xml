@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605021310052X0KC0</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260502131005AFZL10</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0-rc1</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>UNA ECONOMÍA SIN FRONTERAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>LA ECONOMÍA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>REGINA MOLINA ARREBOLA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Vivimos en un mundo globalizado donde los productos, las empresas y el empleo están conectados a escala mundial, influyendo directamente en nuestra vida cotidiana. En esta Situación de Aprendizaje analizaremos cómo funciona la economía global, estudiando conceptos como la globalización, las multinacionales y su impacto en nuestro entorno cercano. Como producto final, investigaremos una empresa y elaboraremos una presentación en la que valoraremos de forma crítica su papel en la economía actual.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777658658948</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>66e0d2b3-f3d7-474d-9b4a-afa79ca6ceb1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>66e0d2b3-f3d7-474d-9b4a-afa79ca6ceb1</odePageId>
+      <odeBlockId>block-1777658742190-1t0uqhm0n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>66e0d2b3-f3d7-474d-9b4a-afa79ca6ceb1</odePageId>
+          <odeBlockId>block-1777658742190-1t0uqhm0n</odeBlockId>
+          <odeIdeviceId>idevice-1777658742187-tsmvrta1j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip22.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Imagen creada por Google Gemini IA para Regina Molina Arrebola</p>
+<p>Hace no tanto tiempo, mucho antes de que existieran las grandes marcas o las tiendas online, las personas producían y consumían casi todo en su propio entorno. Lo que se cultivaba en un pueblo se comía en ese mismo lugar, y los productos apenas viajaban más allá de unos pocos kilómetros.</p>
+<p>Sin embargo, poco a poco, el mundo empezó a cambiar.</p>
+<p>Gracias a los avances en el transporte y la tecnología, los productos comenzaron a viajar cada vez más lejos. Un objeto podía fabricarse en un país, venderse en otro y consumirse en un lugar completamente distinto. Así nació lo que hoy conocemos como globalización: un sistema en el que las economías de todos los países están conectadas entre sí.</p>
+<p>Pero la globalización no es solo una idea lejana. Está mucho más cerca de lo que parece.</p>
+<p>Por ejemplo, la ropa que llevas puede haberse diseñado en Europa, fabricado en Asia y vendido en una tienda de tu ciudad. O el móvil que utilizas cada día puede haber recorrido miles de kilómetros antes de llegar a tus manos. Incluso muchas de las empresas que ves en tu barrio forman parte de grandes redes internacionales.</p>
+<p>Con el tiempo, los economistas y geógrafos comenzaron a hacerse preguntas importantes:<br />¿Cómo funciona realmente esta economía global?<br />¿Quién toma las decisiones?<br />¿Y cómo afecta todo esto a nuestro trabajo, a nuestro barrio o a nuestras oportunidades de futuro?</p>
+<p>Hoy sabemos que la economía no tiene fronteras claras. Las decisiones que se toman en otros países pueden influir directamente en lo que ocurre en lugares como Málaga: en los precios, en el empleo o en las oportunidades laborales.</p>
+<p>Y lo más interesante es que esta economía global no solo se estudia en los libros.</p>
+<p>Podemos verla en muchos aspectos de nuestra vida cotidiana:</p>
+<p>En las tiendas de ropa de nuestro barrio.<br />En los productos del supermercado.<br />En las empresas multinacionales que generan empleo.<br />En las noticias sobre crisis económicas o crecimiento de países.<br />Incluso en las oportunidades de trabajo que existen a nuestro alrededor.</p>
+<p>La economía global está presente en nuestro día a día, aunque a veces no seamos conscientes de ello.</p>
+<p>Por eso, en esta Situación de Aprendizaje titulada “Una Economía Sin Fronteras”, vamos a investigar cómo funciona este mundo conectado, cómo influyen las grandes empresas y, sobre todo, cómo todo esto afecta a nuestra realidad más cercana.</p>
+<p>La próxima vez que compres algo, veas una tienda o escuches una noticia económica, piensa:<br />¿De dónde viene esto?<br />¿Quién lo ha producido?<br />¿Y cómo llega hasta mí?</p>
+<p>Probablemente descubrirás que el mundo está mucho más conectado de lo que imaginabas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777658742187-tsmvrta1j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip22.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Imagen creada por Google Gemini IA para Regina Molina Arrebola</p>\n<p>Hace no tanto tiempo, mucho antes de que existieran las grandes marcas o las tiendas online, las personas producían y consumían casi todo en su propio entorno. Lo que se cultivaba en un pueblo se comía en ese mismo lugar, y los productos apenas viajaban más allá de unos pocos kilómetros.</p>\n<p>Sin embargo, poco a poco, el mundo empezó a cambiar.</p>\n<p>Gracias a los avances en el transporte y la tecnología, los productos comenzaron a viajar cada vez más lejos. Un objeto podía fabricarse en un país, venderse en otro y consumirse en un lugar completamente distinto. Así nació lo que hoy conocemos como globalización: un sistema en el que las economías de todos los países están conectadas entre sí.</p>\n<p>Pero la globalización no es solo una idea lejana. Está mucho más cerca de lo que parece.</p>\n<p>Por ejemplo, la ropa que llevas puede haberse diseñado en Europa, fabricado en Asia y vendido en una tienda de tu ciudad. O el móvil que utilizas cada día puede haber recorrido miles de kilómetros antes de llegar a tus manos. Incluso muchas de las empresas que ves en tu barrio forman parte de grandes redes internacionales.</p>\n<p>Con el tiempo, los economistas y geógrafos comenzaron a hacerse preguntas importantes:<br />¿Cómo funciona realmente esta economía global?<br />¿Quién toma las decisiones?<br />¿Y cómo afecta todo esto a nuestro trabajo, a nuestro barrio o a nuestras oportunidades de futuro?</p>\n<p>Hoy sabemos que la economía no tiene fronteras claras. Las decisiones que se toman en otros países pueden influir directamente en lo que ocurre en lugares como Málaga: en los precios, en el empleo o en las oportunidades laborales.</p>\n<p>Y lo más interesante es que esta economía global no solo se estudia en los libros.</p>\n<p>Podemos verla en muchos aspectos de nuestra vida cotidiana:</p>\n<p>En las tiendas de ropa de nuestro barrio.<br />En los productos del supermercado.<br />En las empresas multinacionales que generan empleo.<br />En las noticias sobre crisis económicas o crecimiento de países.<br />Incluso en las oportunidades de trabajo que existen a nuestro alrededor.</p>\n<p>La economía global está presente en nuestro día a día, aunque a veces no seamos conscientes de ello.</p>\n<p>Por eso, en esta Situación de Aprendizaje titulada “Una Economía Sin Fronteras”, vamos a investigar cómo funciona este mundo conectado, cómo influyen las grandes empresas y, sobre todo, cómo todo esto afecta a nuestra realidad más cercana.</p>\n<p>La próxima vez que compres algo, veas una tienda o escuches una noticia económica, piensa:<br />¿De dónde viene esto?<br />¿Quién lo ha producido?<br />¿Y cómo llega hasta mí?</p>\n<p>Probablemente descubrirás que el mundo está mucho más conectado de lo que imaginabas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777658873153-0s4yt50w7</odePageId>
+  <odeParentPageId>66e0d2b3-f3d7-474d-9b4a-afa79ca6ceb1</odeParentPageId>
+  <pageName>CRONOLOGÍA DE NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRONOLOGÍA DE NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777658873153-0s4yt50w7</odePageId>
+      <odeBlockId>block-1777658934414-xwfgtksz3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777658873153-0s4yt50w7</odePageId>
+          <odeBlockId>block-1777658934414-xwfgtksz3</odeBlockId>
+          <odeIdeviceId>idevice-1777658934405-3cc9287d4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta presentación podéis ver de un vistazo simplificado todo lo que trabajaremos en este proyecto, dividido en las diez sesiones que hemos programado para realizarlo. </p>
+<p><img src="{{context_path}}/content/resources/mceclip20.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Presentación de Gráficos Visuales Líneas de Tiempo Moderna Infográfica Multicolor de Regina Molina Arrebola</p>
+<p><a href="https://drive.google.com/file/d/1iLdX7aHfIeAHtEnLdwkggSrn0S_ze2GP/view?usp=sharing">https://drive.google.com/file/d/1iLdX7aHfIeAHtEnLdwkggSrn0S_ze2GP/view?usp=sharing</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777658934405-3cc9287d4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta presentación podéis ver de un vistazo simplificado todo lo que trabajaremos en este proyecto, dividido en las diez sesiones que hemos programado para realizarlo. </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip20.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Presentación de Gráficos Visuales Líneas de Tiempo Moderna Infográfica Multicolor de Regina Molina Arrebola</p>\n<p><a href=\"https://drive.google.com/file/d/1iLdX7aHfIeAHtEnLdwkggSrn0S_ze2GP/view?usp=sharing\">https://drive.google.com/file/d/1iLdX7aHfIeAHtEnLdwkggSrn0S_ze2GP/view?usp=sharing</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777659625049-7vnv0f4jz</odePageId>
+  <odeParentPageId>66e0d2b3-f3d7-474d-9b4a-afa79ca6ceb1</odeParentPageId>
+  <pageName>HERRAMIENTAS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777659625049-7vnv0f4jz</odePageId>
+      <odeBlockId>block-1777659886975-bk2u2f8iq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777659625049-7vnv0f4jz</odePageId>
+          <odeBlockId>block-1777659886975-bk2u2f8iq</odeBlockId>
+          <odeIdeviceId>idevice-1777659886972-oiguzahl5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os comparto un Padlet donde he incluido algunas herramientas que considero útiles para vuestro proyecto. Si se os ocurre alguna otra opción, podéis comentármelo y la valoramos juntos.</p>
+<p><img src="{{context_path}}/content/resources/mceclip2.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>🔗 Enlace:  <a href="https://padlet.com/rmolarr631/una-econom-a-global-pt34nasbnbnucf1d">https://padlet.com/rmolarr631/una-econom-a-global-pt34nasbnbnucf1d</a></p>
+<p>Descripción<br />Este Padlet está diseñado para el alumnado y recoge los recursos necesarios para desarrollar el<br />proyecto.<br />Contenidos incluidos<br />Vídeo: ¿Qué es la globalización?<br />Vídeo: Cómo funciona el comercio internacional</p>
+<p>Mapa de flujos comerciales mundiales<br />Infografía: países más ricos y más pobres<br />Artículo: impacto de las multinacionales<br />Noticias actuales sobre economía global<br />Tutorial: cómo hacer una presentación digital</p>
+<p><a href="https://padlet.com/rmolarr631/una-economia-global-pt34nasbnbnucf1d/slideshow">https://padlet.com/rmolarr631/una-economia-global-pt34nasbnbnucf1d/slideshow</a></p>
+<p><a href="https://padlet.com/rmolarr631/una-economia-global-pt34nasbnbnucf1d"></a>Estas son las herramientas que os sugiero para desarrollar vuestro proyecto. Para su evaluación, como ya conocéis, utilizaré los instrumentos habituales, que os recuerdo a continuación</p>
+<p><img src="{{context_path}}/content/resources/mceclip3.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>🔗 Enlace: <a href="https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==">https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==</a></p>
+<p>Descripción<br />Esta recopilación está dirigida a docentes e incluye herramientas que utilizo en el aula.<br />Contenidos incluidos<br />Canva (presentaciones)<br />Genially (contenido interactivo)<br />Kahoot (evaluación)<br />Google Classroom<br />Google Earth (mapas interactivos)<br />INTEF (recursos educativos)<br />Banco de imágenes libres<br />YouTube educativo</p>
+<p><a href="https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==">https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==</a></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777659886972-oiguzahl5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os comparto un Padlet donde he incluido algunas herramientas que considero útiles para vuestro proyecto. Si se os ocurre alguna otra opción, podéis comentármelo y la valoramos juntos.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>🔗 Enlace:  <a href=\"https://padlet.com/rmolarr631/una-econom-a-global-pt34nasbnbnucf1d\">https://padlet.com/rmolarr631/una-econom-a-global-pt34nasbnbnucf1d</a></p>\n<p>Descripción<br />Este Padlet está diseñado para el alumnado y recoge los recursos necesarios para desarrollar el<br />proyecto.<br />Contenidos incluidos<br />Vídeo: ¿Qué es la globalización?<br />Vídeo: Cómo funciona el comercio internacional</p>\n<p>Mapa de flujos comerciales mundiales<br />Infografía: países más ricos y más pobres<br />Artículo: impacto de las multinacionales<br />Noticias actuales sobre economía global<br />Tutorial: cómo hacer una presentación digital</p>\n<p><a href=\"https://padlet.com/rmolarr631/una-economia-global-pt34nasbnbnucf1d/slideshow\">https://padlet.com/rmolarr631/una-economia-global-pt34nasbnbnucf1d/slideshow</a></p>\n<p><a href=\"https://padlet.com/rmolarr631/una-economia-global-pt34nasbnbnucf1d\"></a>Estas son las herramientas que os sugiero para desarrollar vuestro proyecto. Para su evaluación, como ya conocéis, utilizaré los instrumentos habituales, que os recuerdo a continuación</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>🔗 Enlace: <a href=\"https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==\">https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==</a></p>\n<p>Descripción<br />Esta recopilación está dirigida a docentes e incluye herramientas que utilizo en el aula.<br />Contenidos incluidos<br />Canva (presentaciones)<br />Genially (contenido interactivo)<br />Kahoot (evaluación)<br />Google Classroom<br />Google Earth (mapas interactivos)<br />INTEF (recursos educativos)<br />Banco de imágenes libres<br />YouTube educativo</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==\">https://www.symbaloo.com/shared/AAAABoKIMAAAA42ADtGYrQ==</a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777662188390-5vumjhef9</odePageId>
+  <odeParentPageId>66e0d2b3-f3d7-474d-9b4a-afa79ca6ceb1</odeParentPageId>
+  <pageName>VEO, PIENSO Y ME PREGUNTO</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VEO, PIENSO Y ME PREGUNTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777662188390-5vumjhef9</odePageId>
+      <odeBlockId>block-1777662192262-74st81sts</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777662188390-5vumjhef9</odePageId>
+          <odeBlockId>block-1777662192262-74st81sts</odeBlockId>
+          <odeIdeviceId>idevice-1777662192259-4r75v59jm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> <img src="{{context_path}}/content/resources/mceclip4.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Imagen creada a través de Google Gemini IA para Regina Molina Arrebola<br /></p>
+<p style="text-align: left;">🌍 UNA ECONOMÍA SIN FRONTERAS<br />Rutina de pensamiento: Veo – Pienso – Me pregunto<br /> </p>
+<p> <a href="https://youtu.be/wbcybk2p8qw">https://youtu.be/wbcybk2p8qw</a></p>
+<p> <br />👀 VEO<br />Observa atentamente la imagen y responde:</p>
+<p>¿Qué elementos aparecen? (transportes, productos, personas, países…)<br />¿De dónde crees que vienen esos productos?<br />¿Qué relación tienen entre sí?<br /> <br />💭 PIENSO<br />Ahora reflexiona:</p>
+<p>Creo que esta imagen representa…<br />Pienso que la economía funciona así porque…<br />Esto puede afectar a mi vida en cosas como…<br /> <br />❓ ME PREGUNTO<br />Hazte preguntas:</p>
+<p>¿Quién fabrica los productos que usamos cada día?<br />¿Por qué algunos productos son más baratos que otros?<br />¿Cómo influye la economía global en mi ciudad o en mi futuro?<br /> <br />🎥 Ahora vamos a descubrirlo…<br />La actividad económica explicada de forma sencilla</p>
+<p> <br />💡 Este vídeo explica de forma clara qué es la actividad económica (producción, distribución y consumo), base para entender cómo funciona una economía global (youtube.com).</p>
+<p> <br />Si quieres, puedo transformarte esto directamente en diapositivas listas para Canva o PowerPoint con diseño visual atractivo para el tribunal.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777662192259-4r75v59jm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <img src=\"{{context_path}}/content/resources/mceclip4.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Imagen creada a través de Google Gemini IA para Regina Molina Arrebola<br /></p>\n<p style=\"text-align: left;\">🌍 UNA ECONOMÍA SIN FRONTERAS<br />Rutina de pensamiento: Veo – Pienso – Me pregunto<br /> </p>\n<p> <a href=\"https://youtu.be/wbcybk2p8qw\">https://youtu.be/wbcybk2p8qw</a></p>\n<p> <br />👀 VEO<br />Observa atentamente la imagen y responde:</p>\n<p>¿Qué elementos aparecen? (transportes, productos, personas, países…)<br />¿De dónde crees que vienen esos productos?<br />¿Qué relación tienen entre sí?<br /> <br />💭 PIENSO<br />Ahora reflexiona:</p>\n<p>Creo que esta imagen representa…<br />Pienso que la economía funciona así porque…<br />Esto puede afectar a mi vida en cosas como…<br /> <br />❓ ME PREGUNTO<br />Hazte preguntas:</p>\n<p>¿Quién fabrica los productos que usamos cada día?<br />¿Por qué algunos productos son más baratos que otros?<br />¿Cómo influye la economía global en mi ciudad o en mi futuro?<br /> <br />🎥 Ahora vamos a descubrirlo…<br />La actividad económica explicada de forma sencilla</p>\n<p> <br />💡 Este vídeo explica de forma clara qué es la actividad económica (producción, distribución y consumo), base para entender cómo funciona una economía global (youtube.com).</p>\n<p> <br />Si quieres, puedo transformarte esto directamente en diapositivas listas para Canva o PowerPoint con diseño visual atractivo para el tribunal.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777662633247-shdwxhvqv</odePageId>
+  <odeParentPageId>66e0d2b3-f3d7-474d-9b4a-afa79ca6ceb1</odeParentPageId>
+  <pageName>LA ECONOMÍA DE MI ENTORNO</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LA ECONOMÍA DE MI ENTORNO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777662633247-shdwxhvqv</odePageId>
+      <odeBlockId>block-1777662650731-1w1l9pllq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777662633247-shdwxhvqv</odePageId>
+          <odeBlockId>block-1777662650731-1w1l9pllq</odeBlockId>
+          <odeIdeviceId>idevice-1777662650729-yog8xeyh4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip5.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">Imagen creada con Google Gemini IA para Regina Molina Arrebola</p>
+<p>Aquí presento la propuesta completa para la descripción y el desarrollo teórico de una reflexión sobre la economía de tu entorno, en este caso, Málaga, utilizando la imagen generada como punto de partida.</p>
+<p> <br />Introducción Visual a la Reflexión Económica de Málaga<br />Para comenzar nuestra reflexión sobre la economía local, utilizaremos la siguiente imagen conceptual, que captura las múltiples fuerzas y paradojas de Málaga en un solo encuadre.</p>
+<p>Descripción Visual de la Imagen: Esta imagen funciona como un mapa conceptual de la economía malagueña. No es solo un paisaje; es un ecosistema de tensiones y colaboraciones.</p>
+<p>La Málaga Tecnológica (Izquierda): Vemos un clúster moderno que representa al Parque Tecnológico de Andalucía (PTA). Profesionales jóvenes, conectividad digital y arquitectura moderna simbolizan la "economía del conocimiento" y la innovación.<br />La Málaga Local e Identitaria (Centro-Derecha): Un mercado de abastos vibrante y tradicional, con productos agrícolas de la Axarquía y artesanía local, representa la economía de proximidad, el comercio tradicional y el arraigo cultural.<br />La Málaga Turística (Fondo/Derecha): Cruceros en el puerto y la silueta del Muelle Uno o la Alcazaba simbolizan la histórica dependencia del sector servicios y el turismo masivo, la "industria del sol".<br />La Interconexión (Foreground/Mural): Un gran mural o graffiti central sirve de andamiaje conceptual, mostrando engranajes y líneas que conectan un satélite (tecnología), un olivo (agricultura), una maleta (turismo) y una mano entrelazada (cooperación local). El texto integrado "MÁLAGA: INTERCONEXIONES" subraya la tesis central.<br /> <br />Desarrollo Teórico para la Reflexión Económica: "Málaga en la Encrucijada"<br />La economía de Málaga es un caso de estudio fascinante sobre cómo una región puede transitar de la dependencia sectorial hacia una complejidad híbrida. Nuestra reflexión teórica se estructurará sobre tres pilares fundamentales: La Paradoja de la Dualidad, El Efecto de la 'Glocalización' y La Sostenibilidad como 'Andamiaje' de Futuro.</p>
+<p>1. La Paradoja de la Dualidad: ¿Sol o Silicio?<br />Teorizar sobre Málaga requiere, ante todo, analizar su dualidad. Durante décadas, Málaga operó bajo un modelo económico "Sol y Playa", un sector servicios hipertrofiado que generaba empleo rápido pero estacional y de bajo valor añadido. La imagen captura esto en los elementos turísticos del fondo.</p>
+<p>La irrupción del PTA y la consolidación de la marca "Málaga Tech" han introducido una segunda fuerza económica, visible en el clúster de la izquierda. La paradoja radica en que estos dos modelos a menudo compiten por los mismos recursos: suelo, talento y agua. La reflexión teórica debe cuestionar si esta convivencia es una simbiosis (donde la tecnología mejora el turismo, por ejemplo, mediante la smart-tourism) o una gentrificación productiva (donde el sector tecnológico desplaza al tradicional).</p>
+<p>Términos Clave: Estacionalidad, Valor Añadido, Estructura Productiva, Dualidad Económica.<br />2. El Efecto de la 'Glocalización' y la 'Fuga de Cerebros' Inversa<br />Málaga es un nodo vibrante de la 'glocalización'. Esto significa que fuerzas globales (como grandes multinacionales tecnológicas atraídas por la calidad de vida y la conectividad) impactan directamente en el tejido local. La imagen lo representa: el PTA es un nodo global en un entorno local.</p>
+<p>Esto genera un fenómeno de "fuga de cerebros inversa" o atracción de talento internacional (digital nomads), pero también presiona sobre la economía doméstica. La teoría económica nos advierte sobre el riesgo de crear una "economía de enclave" dentro del PTA, desconectada del mercado local (representado por el mercado central de la imagen). Nuestra reflexión debe centrarse en cómo transferir el conocimiento y la riqueza del sector tecnológico hacia el comercio local y la educación pública de la región, evitando que la tecnología sea solo un "escaparate".</p>
+<p>Términos Clave: Glocalización, Deslocalización, Efecto Multiplicador, Capital Humano.<br />3. La Sostenibilidad como 'Andamiaje' y Feedback<br />El futuro de la economía de Málaga está condicionado por su entorno físico. La imagen integra sutilmente elementos de sostenibilidad (placas solares en el mercado, bicicletas de carga). La teoría económica de la sostenibilidad debe dejar de ser un apéndice y convertirse en el andamiaje central.</p>
+<p>La reflexión debe usar el feedback loop (bucle de retroalimentación): ¿Cómo afecta el cambio climático y la escasez de agua (un riesgo real en la provincia) a la producción agrícola (mercado local)? ¿Cómo puede la tecnología (PTA) desarrollar soluciones para el estrés hídrico de la región? La sostenibilidad no es un coste, sino la única vía para garantizar que la dualidad Sol/Silicio sea viable a largo plazo.</p>
+<p>Términos Clave: Economía Circular, Estrés Hídrico, Sostenibilidad Productiva, Resiliencia Económica.<br /> <br />Conclusión para la Reflexión: Al analizar la imagen y aplicar estos marcos teóricos, el alumnado no solo "ve" la economía de Málaga, sino que "piensa" en sus contradicciones y "se pregunta" por las políticas necesarias para construir un futuro equilibrado. La economía malagueña no debe ser una competición entre el sol y el silicio, sino una interconexión inteligente de ambos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777662650729-yog8xeyh4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip5.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\">Imagen creada con Google Gemini IA para Regina Molina Arrebola</p>\n<p>Aquí presento la propuesta completa para la descripción y el desarrollo teórico de una reflexión sobre la economía de tu entorno, en este caso, Málaga, utilizando la imagen generada como punto de partida.</p>\n<p> <br />Introducción Visual a la Reflexión Económica de Málaga<br />Para comenzar nuestra reflexión sobre la economía local, utilizaremos la siguiente imagen conceptual, que captura las múltiples fuerzas y paradojas de Málaga en un solo encuadre.</p>\n<p>Descripción Visual de la Imagen: Esta imagen funciona como un mapa conceptual de la economía malagueña. No es solo un paisaje; es un ecosistema de tensiones y colaboraciones.</p>\n<p>La Málaga Tecnológica (Izquierda): Vemos un clúster moderno que representa al Parque Tecnológico de Andalucía (PTA). Profesionales jóvenes, conectividad digital y arquitectura moderna simbolizan la \"economía del conocimiento\" y la innovación.<br />La Málaga Local e Identitaria (Centro-Derecha): Un mercado de abastos vibrante y tradicional, con productos agrícolas de la Axarquía y artesanía local, representa la economía de proximidad, el comercio tradicional y el arraigo cultural.<br />La Málaga Turística (Fondo/Derecha): Cruceros en el puerto y la silueta del Muelle Uno o la Alcazaba simbolizan la histórica dependencia del sector servicios y el turismo masivo, la \"industria del sol\".<br />La Interconexión (Foreground/Mural): Un gran mural o graffiti central sirve de andamiaje conceptual, mostrando engranajes y líneas que conectan un satélite (tecnología), un olivo (agricultura), una maleta (turismo) y una mano entrelazada (cooperación local). El texto integrado \"MÁLAGA: INTERCONEXIONES\" subraya la tesis central.<br /> <br />Desarrollo Teórico para la Reflexión Económica: \"Málaga en la Encrucijada\"<br />La economía de Málaga es un caso de estudio fascinante sobre cómo una región puede transitar de la dependencia sectorial hacia una complejidad híbrida. Nuestra reflexión teórica se estructurará sobre tres pilares fundamentales: La Paradoja de la Dualidad, El Efecto de la 'Glocalización' y La Sostenibilidad como 'Andamiaje' de Futuro.</p>\n<p>1. La Paradoja de la Dualidad: ¿Sol o Silicio?<br />Teorizar sobre Málaga requiere, ante todo, analizar su dualidad. Durante décadas, Málaga operó bajo un modelo económico \"Sol y Playa\", un sector servicios hipertrofiado que generaba empleo rápido pero estacional y de bajo valor añadido. La imagen captura esto en los elementos turísticos del fondo.</p>\n<p>La irrupción del PTA y la consolidación de la marca \"Málaga Tech\" han introducido una segunda fuerza económica, visible en el clúster de la izquierda. La paradoja radica en que estos dos modelos a menudo compiten por los mismos recursos: suelo, talento y agua. La reflexión teórica debe cuestionar si esta convivencia es una simbiosis (donde la tecnología mejora el turismo, por ejemplo, mediante la smart-tourism) o una gentrificación productiva (donde el sector tecnológico desplaza al tradicional).</p>\n<p>Términos Clave: Estacionalidad, Valor Añadido, Estructura Productiva, Dualidad Económica.<br />2. El Efecto de la 'Glocalización' y la 'Fuga de Cerebros' Inversa<br />Málaga es un nodo vibrante de la 'glocalización'. Esto significa que fuerzas globales (como grandes multinacionales tecnológicas atraídas por la calidad de vida y la conectividad) impactan directamente en el tejido local. La imagen lo representa: el PTA es un nodo global en un entorno local.</p>\n<p>Esto genera un fenómeno de \"fuga de cerebros inversa\" o atracción de talento internacional (digital nomads), pero también presiona sobre la economía doméstica. La teoría económica nos advierte sobre el riesgo de crear una \"economía de enclave\" dentro del PTA, desconectada del mercado local (representado por el mercado central de la imagen). Nuestra reflexión debe centrarse en cómo transferir el conocimiento y la riqueza del sector tecnológico hacia el comercio local y la educación pública de la región, evitando que la tecnología sea solo un \"escaparate\".</p>\n<p>Términos Clave: Glocalización, Deslocalización, Efecto Multiplicador, Capital Humano.<br />3. La Sostenibilidad como 'Andamiaje' y Feedback<br />El futuro de la economía de Málaga está condicionado por su entorno físico. La imagen integra sutilmente elementos de sostenibilidad (placas solares en el mercado, bicicletas de carga). La teoría económica de la sostenibilidad debe dejar de ser un apéndice y convertirse en el andamiaje central.</p>\n<p>La reflexión debe usar el feedback loop (bucle de retroalimentación): ¿Cómo afecta el cambio climático y la escasez de agua (un riesgo real en la provincia) a la producción agrícola (mercado local)? ¿Cómo puede la tecnología (PTA) desarrollar soluciones para el estrés hídrico de la región? La sostenibilidad no es un coste, sino la única vía para garantizar que la dualidad Sol/Silicio sea viable a largo plazo.</p>\n<p>Términos Clave: Economía Circular, Estrés Hídrico, Sostenibilidad Productiva, Resiliencia Económica.<br /> <br />Conclusión para la Reflexión: Al analizar la imagen y aplicar estos marcos teóricos, el alumnado no solo \"ve\" la economía de Málaga, sino que \"piensa\" en sus contradicciones y \"se pregunta\" por las políticas necesarias para construir un futuro equilibrado. La economía malagueña no debe ser una competición entre el sol y el silicio, sino una interconexión inteligente de ambos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777662972427-1s8c94pko</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777662972427-1s8c94pko</odePageId>
+      <odeBlockId>block-1777662977495-picq03dz2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777662972427-1s8c94pko</odePageId>
+          <odeBlockId>block-1777662977495-picq03dz2</odeBlockId>
+          <odeIdeviceId>idevice-1777662977491-h1ivvg107</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip21.jpg" /></p>
+<p style="text-align: center;">Imagen creada por Google Gemini IA para Regina Molina Arrebola</p>
+<p>Llegó el momento de consolidar y profundizar en los conceptos de la economía de nuestro entorno y del mundo. Para asegurar un aprendizaje progresivo y adaptado al nivel de nuestro grupo, hemos estructurado las actividades en tres fases clave:</p>
+<p>1. Fase Inicial: Diagnóstico y activación<br />Objetivo: Conocer el punto de partida y conectar la economía con nuestra vida cotidiana.<br />Actividades:</p>
+<p>Dinámica "La cadena del pantalón": Identificamos de manera práctica las fases de la actividad económica y los agentes que intervienen.<br />Ficha de conceptos básicos: Repaso de los factores de producción y los problemas actuales del mercado laboral en Málaga.<br /> <br />2. Fase Desarrollo: Exploración y profundización<br />Objetivo: Descubrir y trabajar los nuevos conceptos relacionados con la globalización y la economía mundial.<br />Actividades:</p>
+<p>Trazabilidad de un producto: Investigamos el recorrido y el impacto de la fabricación de un producto desde el diseño hasta el consumidor.<br />Análisis crítico de noticias: Debatimos sobre la deslocalización, las ventajas e inconvenientes del comercio internacional.<br />Taller de indicadores: Representación y análisis de datos económicos (como el PIB o el papel de los organismos internacionales) utilizando herramientas digitales.<br /> <br />3. Fase Consolidación: Aplicación y producto final<br />Objetivo: Afianzar los contenidos aprendidos y aplicarlos a nuestro entorno cercano.<br />Actividades:</p>
+<p>Presentación "Global-Local": Elaboración de un diseño colaborativo en Canva sobre el impacto de una multinacional en Málaga.<br />Evaluación y reflexión: Puesta en común mediante la diana de autoevaluación y cuestionarios para reflexionar sobre nuestro aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777662977491-h1ivvg107","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip21.jpg\" /></p>\n<p style=\"text-align: center;\">Imagen creada por Google Gemini IA para Regina Molina Arrebola</p>\n<p>Llegó el momento de consolidar y profundizar en los conceptos de la economía de nuestro entorno y del mundo. Para asegurar un aprendizaje progresivo y adaptado al nivel de nuestro grupo, hemos estructurado las actividades en tres fases clave:</p>\n<p>1. Fase Inicial: Diagnóstico y activación<br />Objetivo: Conocer el punto de partida y conectar la economía con nuestra vida cotidiana.<br />Actividades:</p>\n<p>Dinámica \"La cadena del pantalón\": Identificamos de manera práctica las fases de la actividad económica y los agentes que intervienen.<br />Ficha de conceptos básicos: Repaso de los factores de producción y los problemas actuales del mercado laboral en Málaga.<br /> <br />2. Fase Desarrollo: Exploración y profundización<br />Objetivo: Descubrir y trabajar los nuevos conceptos relacionados con la globalización y la economía mundial.<br />Actividades:</p>\n<p>Trazabilidad de un producto: Investigamos el recorrido y el impacto de la fabricación de un producto desde el diseño hasta el consumidor.<br />Análisis crítico de noticias: Debatimos sobre la deslocalización, las ventajas e inconvenientes del comercio internacional.<br />Taller de indicadores: Representación y análisis de datos económicos (como el PIB o el papel de los organismos internacionales) utilizando herramientas digitales.<br /> <br />3. Fase Consolidación: Aplicación y producto final<br />Objetivo: Afianzar los contenidos aprendidos y aplicarlos a nuestro entorno cercano.<br />Actividades:</p>\n<p>Presentación \"Global-Local\": Elaboración de un diseño colaborativo en Canva sobre el impacto de una multinacional en Málaga.<br />Evaluación y reflexión: Puesta en común mediante la diana de autoevaluación y cuestionarios para reflexionar sobre nuestro aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777665487389-8osuy0q8m</odePageId>
+  <odeParentPageId>page-1777662972427-1s8c94pko</odeParentPageId>
+  <pageName>FASE INICIAL</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE INICIAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777665487389-8osuy0q8m</odePageId>
+      <odeBlockId>block-1777665490142-di3i2qxks</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777665487389-8osuy0q8m</odePageId>
+          <odeBlockId>block-1777665490142-di3i2qxks</odeBlockId>
+          <odeIdeviceId>idevice-1777665490141-047e0h9gl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Fase Inicial: Diagnóstico y activación<br />Objetivo: Conocer el punto de partida y conectar la economía con nuestra vida cotidiana.<br />Actividades:</p>
+<p>Dinámica "La cadena del pantalón": Identificamos de manera práctica las fases de la actividad económica y los agentes que intervienen.<br />Ficha de conceptos básicos: Repaso de los factores de producción y los problemas actuales del mercado laboral en Málaga.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777665490141-047e0h9gl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Fase Inicial: Diagnóstico y activación<br />Objetivo: Conocer el punto de partida y conectar la economía con nuestra vida cotidiana.<br />Actividades:</p>\n<p>Dinámica \"La cadena del pantalón\": Identificamos de manera práctica las fases de la actividad económica y los agentes que intervienen.<br />Ficha de conceptos básicos: Repaso de los factores de producción y los problemas actuales del mercado laboral en Málaga.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777665514167-r3q9o23a5</odePageId>
+  <odeParentPageId>page-1777662972427-1s8c94pko</odeParentPageId>
+  <pageName>FASE DE DESARROLLO</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE DE DESARROLLO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777665514167-r3q9o23a5</odePageId>
+      <odeBlockId>block-1777665516735-lt4n0nwoe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777665514167-r3q9o23a5</odePageId>
+          <odeBlockId>block-1777665516735-lt4n0nwoe</odeBlockId>
+          <odeIdeviceId>idevice-1777665516732-041zk7qby</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>2. Fase Desarrollo: Exploración y profundización<br />Objetivo: Descubrir y trabajar los nuevos conceptos relacionados con la globalización y la economía mundial.<br />Actividades:</p>
+<p>Trazabilidad de un producto: Investigamos el recorrido y el impacto de la fabricación de un producto desde el diseño hasta el consumidor.<br />Análisis crítico de noticias: Debatimos sobre la deslocalización, las ventajas e inconvenientes del comercio internacional.<br />Taller de indicadores: Representación y análisis de datos económicos (como el PIB o el papel de los organismos internacionales) utilizando herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777665516732-041zk7qby","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>2. Fase Desarrollo: Exploración y profundización<br />Objetivo: Descubrir y trabajar los nuevos conceptos relacionados con la globalización y la economía mundial.<br />Actividades:</p>\n<p>Trazabilidad de un producto: Investigamos el recorrido y el impacto de la fabricación de un producto desde el diseño hasta el consumidor.<br />Análisis crítico de noticias: Debatimos sobre la deslocalización, las ventajas e inconvenientes del comercio internacional.<br />Taller de indicadores: Representación y análisis de datos económicos (como el PIB o el papel de los organismos internacionales) utilizando herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777665553020-rb3rmnlx1</odePageId>
+  <odeParentPageId>page-1777662972427-1s8c94pko</odeParentPageId>
+  <pageName>FASE DE CONSOLIDACIÓN</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FASE DE CONSOLIDACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777665553020-rb3rmnlx1</odePageId>
+      <odeBlockId>block-1777665554998-o0acuayzh</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777665553020-rb3rmnlx1</odePageId>
+          <odeBlockId>block-1777665554998-o0acuayzh</odeBlockId>
+          <odeIdeviceId>idevice-1777665554995-3tl0yadhc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>3. Fase Consolidación: Aplicación y producto final<br />Objetivo: Afianzar los contenidos aprendidos y aplicarlos a nuestro entorno cercano.<br />Actividades:</p>
+<p>Presentación "Global-Local": Elaboración de un diseño colaborativo en Canva sobre el impacto de una multinacional en Málaga.<br />Evaluación y reflexión: Puesta en común mediante la diana de autoevaluación y cuestionarios para reflexionar sobre nuestro aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777665554995-3tl0yadhc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>3. Fase Consolidación: Aplicación y producto final<br />Objetivo: Afianzar los contenidos aprendidos y aplicarlos a nuestro entorno cercano.<br />Actividades:</p>\n<p>Presentación \"Global-Local\": Elaboración de un diseño colaborativo en Canva sobre el impacto de una multinacional en Málaga.<br />Evaluación y reflexión: Puesta en común mediante la diana de autoevaluación y cuestionarios para reflexionar sobre nuestro aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777665746583-g53o2ubde</odePageId>
+  <odeParentPageId>page-1777662972427-1s8c94pko</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA/RELACIÓN DE ACTIVIDADES CON CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA/RELACIÓN DE ACTIVIDADES CON CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA/RELACIÓN DE ACTIVIDADES CON CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777665746583-g53o2ubde</odePageId>
+      <odeBlockId>block-1777665757292-ggj5is3ka</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777665746583-g53o2ubde</odePageId>
+          <odeBlockId>block-1777665757292-ggj5is3ka</odeBlockId>
+          <odeIdeviceId>idevice-1777665757282-feitgxi1t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>https://drive.google.com/file/d/1MW5ZdWCBB6Gq0K8UGwI5g_c0Z06-pyfT/view?usp=sharing</p>
+<p></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip14.jpg" /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip15.jpg" /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip16.jpg" /><img src="{{context_path}}/content/resources/mceclip17.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777665757282-feitgxi1t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>https://drive.google.com/file/d/1MW5ZdWCBB6Gq0K8UGwI5g_c0Z06-pyfT/view?usp=sharing</p>\n<p></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip14.jpg\" /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip15.jpg\" /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip16.jpg\" /><img src=\"{{context_path}}/content/resources/mceclip17.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777663762273-ry89k2lav</odePageId>
+  <odeParentPageId>page-1777662972427-1s8c94pko</odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777663762273-ry89k2lav</odePageId>
+      <odeBlockId>block-1777663767646-dtrsfrj9k</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777663762273-ry89k2lav</odePageId>
+          <odeBlockId>block-1777663767646-dtrsfrj9k</odeBlockId>
+          <odeIdeviceId>idevice-1777663767642-g8j64tomb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1JielfDWo1525Eryf5BQFjblN2lEIgWIE/view?usp=sharing">https://drive.google.com/file/d/1JielfDWo1525Eryf5BQFjblN2lEIgWIE/view?usp=sharing</a></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip7.jpg" /></p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/11LgadR2uxTmnfIheecDRpKQP_EDse841/view?usp=sharing">https://drive.google.com/file/d/11LgadR2uxTmnfIheecDRpKQP_EDse841/view?usp=sharing</a></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/blobid1.dat" alt="" /><img src="{{context_path}}/content/resources/mceclip9.jpg" /><img src="{{context_path}}/content/resources/blobid1.dat" alt="" /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip10.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777663767642-g8j64tomb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1JielfDWo1525Eryf5BQFjblN2lEIgWIE/view?usp=sharing\">https://drive.google.com/file/d/1JielfDWo1525Eryf5BQFjblN2lEIgWIE/view?usp=sharing</a></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip7.jpg\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/11LgadR2uxTmnfIheecDRpKQP_EDse841/view?usp=sharing\">https://drive.google.com/file/d/11LgadR2uxTmnfIheecDRpKQP_EDse841/view?usp=sharing</a></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/blobid1.dat\" alt=\"\" /><img src=\"{{context_path}}/content/resources/mceclip9.jpg\" /><img src=\"{{context_path}}/content/resources/blobid1.dat\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip10.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777666197694-tnt32dg5w</odePageId>
+  <odeParentPageId>page-1777663762273-ry89k2lav</odeParentPageId>
+  <pageName>HERRAMIENTA A UTILIZAR Y JUSTIFICACIÓN</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTA A UTILIZAR Y JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777666197694-tnt32dg5w</odePageId>
+      <odeBlockId>block-1777666201340-nckqpozki</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777666197694-tnt32dg5w</odePageId>
+          <odeBlockId>block-1777666201340-nckqpozki</odeBlockId>
+          <odeIdeviceId>idevice-1777666201334-amiw3erwy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Justificación de la Herramienta Digital: Canva en la SdA "Una Economía Sin Fronteras"<br />En el marco de la Situación de Aprendizaje (SdA) "Una Economía Sin Fronteras", dirigida al alumnado de 3º de ESO de Geografía, se ha seleccionado la plataforma Canva como herramienta principal para el diseño y elaboración del producto final: el Dossier o Presentación "Global-Local".</p>
+<p style="text-align: center;"><strong>1. Descripción del Producto Final</strong></p>
+<p style="text-align: justify;">El producto final consiste en la creación de una presentación digital de impacto visual en la que el alumnado debe analizar una empresa multinacional reconocida (tales como Amazon, Inditex o McDonald's). El objetivo es que logren exponer visualmente cómo las decisiones corporativas a escala global repercuten de forma directa en el tejido productivo y en el empleo de nuestra ciudad, Málaga. El proyecto consta de los siguientes apartados:</p>
+<p>Identificación y origen: Sede central y mercado objetivo.<br />Trazabilidad: Proceso de producción y distribución.Impacto local: Ventajas y consecuencias (positivas y negativas) de la deslocalización en el comercio tradicional malagueño y en las ofertas de empleo.</p>
+<p style="text-align: center;"><br /><strong>2. Objetivos Didácticos y Desarrollo de Competencias</strong></p>
+<p><br />La integración de Canva responde a la necesidad de trabajar la Competencia Digital (CD) y la alfabetización mediática del alumnado, especialmente en contextos de centros de difícil desempeño donde el acceso a herramientas intuitivas y colaborativas reduce la brecha digital:</p>
+<p>Transformación de la información: Permite pasar de un texto plano y denso a un formato visualmente atractivo mediante infografías, esquemas conceptuales y plantillas prediseñadas.<br />Síntesis y estructuración: Obliga al alumnado a seleccionar la información más relevante, resumiendo conceptos económicos complejos (tales como la deslocalización, el PIB o los flujos financieros) para hacerlos comprensibles a sus compañeros durante la exposición oral.<br />Trabajo cooperativo y roles: Fomenta la coedición en tiempo real, lo que permite asignar funciones dentro del grupo (diseñador, documentalista, portavoz), fortaleciendo las habilidades sociales y el aprendizaje entre iguales.<br /></p>
+<p style="text-align: center;"><strong>3. Gestión de Variables e Incidencias en el Aula</strong></p>
+<p>Teniendo en cuenta el grupo y el centro,  el uso de tecnología podría presentar incidencias técnicas o de conectividad. Para solventarlas, se proponen las siguientes medidas de prevención y actuación:</p>
+<p>Andamiaje docente: Se facilitará una plantilla prediseñada en Canva para evitar el bloqueo creativo o técnico ante la interfaz del programa.<br />Resolución de incidencias: Si surgieran problemas de conexión a internet, se permitirá al grupo trabajar con borradores físicos (cartulinas y recortes) que simulan el diseño digital, valorando igualmente el contenido y la capacidad de síntesis y comunicación.<br />Aprendizaje colaborativo: Se utilizarán parejas de trabajo donde los alumnos con mayor soltura digital sirvan de guía (mentores) para aquellos con menor destreza en el manejo de dispositivos.<br />En conclusión, el uso de Canva dota a la unidad de un valor añadido: convierte un tema de geografía económica en un proyecto motivador, accesible y conectado con las habilidades que el alumnado necesitará en su futuro laboral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777666201334-amiw3erwy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Justificación de la Herramienta Digital: Canva en la SdA \"Una Economía Sin Fronteras\"<br />En el marco de la Situación de Aprendizaje (SdA) \"Una Economía Sin Fronteras\", dirigida al alumnado de 3º de ESO de Geografía, se ha seleccionado la plataforma Canva como herramienta principal para el diseño y elaboración del producto final: el Dossier o Presentación \"Global-Local\".</p>\n<p style=\"text-align: center;\"><strong>1. Descripción del Producto Final</strong></p>\n<p style=\"text-align: justify;\">El producto final consiste en la creación de una presentación digital de impacto visual en la que el alumnado debe analizar una empresa multinacional reconocida (tales como Amazon, Inditex o McDonald's). El objetivo es que logren exponer visualmente cómo las decisiones corporativas a escala global repercuten de forma directa en el tejido productivo y en el empleo de nuestra ciudad, Málaga. El proyecto consta de los siguientes apartados:</p>\n<p>Identificación y origen: Sede central y mercado objetivo.<br />Trazabilidad: Proceso de producción y distribución.Impacto local: Ventajas y consecuencias (positivas y negativas) de la deslocalización en el comercio tradicional malagueño y en las ofertas de empleo.</p>\n<p style=\"text-align: center;\"><br /><strong>2. Objetivos Didácticos y Desarrollo de Competencias</strong></p>\n<p><br />La integración de Canva responde a la necesidad de trabajar la Competencia Digital (CD) y la alfabetización mediática del alumnado, especialmente en contextos de centros de difícil desempeño donde el acceso a herramientas intuitivas y colaborativas reduce la brecha digital:</p>\n<p>Transformación de la información: Permite pasar de un texto plano y denso a un formato visualmente atractivo mediante infografías, esquemas conceptuales y plantillas prediseñadas.<br />Síntesis y estructuración: Obliga al alumnado a seleccionar la información más relevante, resumiendo conceptos económicos complejos (tales como la deslocalización, el PIB o los flujos financieros) para hacerlos comprensibles a sus compañeros durante la exposición oral.<br />Trabajo cooperativo y roles: Fomenta la coedición en tiempo real, lo que permite asignar funciones dentro del grupo (diseñador, documentalista, portavoz), fortaleciendo las habilidades sociales y el aprendizaje entre iguales.<br /></p>\n<p style=\"text-align: center;\"><strong>3. Gestión de Variables e Incidencias en el Aula</strong></p>\n<p>Teniendo en cuenta el grupo y el centro,  el uso de tecnología podría presentar incidencias técnicas o de conectividad. Para solventarlas, se proponen las siguientes medidas de prevención y actuación:</p>\n<p>Andamiaje docente: Se facilitará una plantilla prediseñada en Canva para evitar el bloqueo creativo o técnico ante la interfaz del programa.<br />Resolución de incidencias: Si surgieran problemas de conexión a internet, se permitirá al grupo trabajar con borradores físicos (cartulinas y recortes) que simulan el diseño digital, valorando igualmente el contenido y la capacidad de síntesis y comunicación.<br />Aprendizaje colaborativo: Se utilizarán parejas de trabajo donde los alumnos con mayor soltura digital sirvan de guía (mentores) para aquellos con menor destreza en el manejo de dispositivos.<br />En conclusión, el uso de Canva dota a la unidad de un valor añadido: convierte un tema de geografía económica en un proyecto motivador, accesible y conectado con las habilidades que el alumnado necesitará en su futuro laboral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777664677410-nos67rvc9</odePageId>
+  <odeParentPageId>page-1777663762273-ry89k2lav</odeParentPageId>
+  <pageName>INDICACIONES IMPORTANTES (LICENCIAS Y SEGURIDAD)</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INDICACIONES IMPORTANTES (LICENCIAS Y SEGURIDAD)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777664677410-nos67rvc9</odePageId>
+      <odeBlockId>block-1777664686508-8c7tk4s91</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777664677410-nos67rvc9</odePageId>
+          <odeBlockId>block-1777664686508-8c7tk4s91</odeBlockId>
+          <odeIdeviceId>idevice-1777664686505-ls674s60i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1lH3PDWwdTun-3xsXN6JJgQDTpiYruklZ/view?usp=sharing">https://drive.google.com/file/d/1lH3PDWwdTun-3xsXN6JJgQDTpiYruklZ/view?usp=sharing</a></p>
+<p></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip11.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777664686505-ls674s60i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1lH3PDWwdTun-3xsXN6JJgQDTpiYruklZ/view?usp=sharing\">https://drive.google.com/file/d/1lH3PDWwdTun-3xsXN6JJgQDTpiYruklZ/view?usp=sharing</a></p>\n<p></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip11.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777666502190-uc2eaorpz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777666502190-uc2eaorpz</odePageId>
+      <odeBlockId>block-1777666509997-ec6gzkbl2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777666502190-uc2eaorpz</odePageId>
+          <odeBlockId>block-1777666509997-ec6gzkbl2</odeBlockId>
+          <odeIdeviceId>idevice-1777666509995-lzn1prz1d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">https://drive.google.com/file/d/1sR49780kXx-UptkalQL_hrRxlaIg8PRz/view?usp=sharing</p>
+<p style="text-align: center;"><strong>Instrumentos de Evaluación</strong><br /></p>
+<p style="text-align: left;">Proyecto: Situación de Aprendizaje "Una Economía Sin Fronteras" Curso: 3º ESO - Geografía e Historia</p>
+<p style="text-align: center;"><strong>1. Introducción y Contextualización</strong></p>
+<p><br />El objetivo es evaluar el producto final (presentación digital "Global-Local") y el proceso colaborativo. Utilizaremos instrumentos visuales y claros.</p>
+<p> Instrumento 1: Rúbrica Analítica de Producto Final<br />Esta rúbrica se utilizará para la heteroevaluación docente. Se aplica a la presentación final en Canva.</p>
+<p><img src="{{context_path}}/content/resources/mceclip18.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><strong>3. Instrumento 2: Diana de Autoevaluación Circular</strong><br /></p>
+<p>Herramienta visual para que el alumno evalúe su proceso de trabajo.</p>
+<p>  <img src="{{context_path}}/content/resources/mceclip19.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+<p>* Cada alumno une sus marcas con colores para ver su "área de éxito".</p>
+<p><br /></p>
+<p style="text-align: center;"><strong>4. Gestión de variables e incidencias</strong></p>
+<p style="text-align: left;"><br />Variable Tecnológica: Si hay problemas de acceso a internet o dispositivos, se permite la entrega en formato de "mural físico" en cartulina (analógico), que será evaluado con la misma rúbrica (excepto el ítem de competencia digital).<br />Conflicto Grupal: Si en la diana un alumno se autoevalúa alto pero el resto le puntúa bajo, se iniciará una tutoría individual para identificar si el problema es falta de motivación o dificultades en la dinámica de grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777666509995-lzn1prz1d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">https://drive.google.com/file/d/1sR49780kXx-UptkalQL_hrRxlaIg8PRz/view?usp=sharing</p>\n<p style=\"text-align: center;\"><strong>Instrumentos de Evaluación</strong><br /></p>\n<p style=\"text-align: left;\">Proyecto: Situación de Aprendizaje \"Una Economía Sin Fronteras\" Curso: 3º ESO - Geografía e Historia</p>\n<p style=\"text-align: center;\"><strong>1. Introducción y Contextualización</strong></p>\n<p><br />El objetivo es evaluar el producto final (presentación digital \"Global-Local\") y el proceso colaborativo. Utilizaremos instrumentos visuales y claros.</p>\n<p> Instrumento 1: Rúbrica Analítica de Producto Final<br />Esta rúbrica se utilizará para la heteroevaluación docente. Se aplica a la presentación final en Canva.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip18.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><strong>3. Instrumento 2: Diana de Autoevaluación Circular</strong><br /></p>\n<p>Herramienta visual para que el alumno evalúe su proceso de trabajo.</p>\n<p>  <img src=\"{{context_path}}/content/resources/mceclip19.jpg\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>\n<p>* Cada alumno une sus marcas con colores para ver su \"área de éxito\".</p>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>4. Gestión de variables e incidencias</strong></p>\n<p style=\"text-align: left;\"><br />Variable Tecnológica: Si hay problemas de acceso a internet o dispositivos, se permite la entrega en formato de \"mural físico\" en cartulina (analógico), que será evaluado con la misma rúbrica (excepto el ítem de competencia digital).<br />Conflicto Grupal: Si en la diana un alumno se autoevalúa alto pero el resto le puntúa bajo, se iniciará una tutoría individual para identificar si el problema es falta de motivación o dificultades en la dinámica de grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777667199718-rj89wabe4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777667199718-rj89wabe4</odePageId>
+      <odeBlockId>block-1777667205551-g4zepeq3l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777667199718-rj89wabe4</odePageId>
+          <odeBlockId>block-1777667205551-g4zepeq3l</odeBlockId>
+          <odeIdeviceId>idevice-1777667205548-loqgn6rvk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título del Recurso: Una Economía Sin Fronteras: Del Entorno Local al Mercado Global. Nivel Educativo: 3º de ESO - Geografía e Historia.</p>
+<p>Descripción: Secuencia didáctica integrada que combina el análisis del entorno económico local (Málaga), la comprensión de los factores de producción y el impacto de la globalización, fomentando la competencia digital y el pensamiento crítico a través de herramientas de diseño.</p>
+<p>👤 Autoría y Colaboración Autor/a: Regina Molina Arrebola Centro Educativo: IES Guadalmedina (Málaga) Año de creación: 2026 Herramientas utilizadas: Canva, Google Workspace (Docs, Sheets, Maps), Padlet, Quizlet. Las imágenes sin indicación al pie han sido creadas por el autora Regina Molina Arrebola</p>
+<p>🔓 Licencia de Uso Este material educativo se publica bajo la licencia: Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.</p>
+<p>📩 Contacto Para dudas, sugerencias o compartir resultados, podéis contactar a través de: Email: rmolarr631@g.educaand.es </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777667205548-loqgn6rvk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título del Recurso: Una Economía Sin Fronteras: Del Entorno Local al Mercado Global. Nivel Educativo: 3º de ESO - Geografía e Historia.</p>\n<p>Descripción: Secuencia didáctica integrada que combina el análisis del entorno económico local (Málaga), la comprensión de los factores de producción y el impacto de la globalización, fomentando la competencia digital y el pensamiento crítico a través de herramientas de diseño.</p>\n<p>👤 Autoría y Colaboración Autor/a: Regina Molina Arrebola Centro Educativo: IES Guadalmedina (Málaga) Año de creación: 2026 Herramientas utilizadas: Canva, Google Workspace (Docs, Sheets, Maps), Padlet, Quizlet. Las imágenes sin indicación al pie han sido creadas por el autora Regina Molina Arrebola</p>\n<p>🔓 Licencia de Uso Este material educativo se publica bajo la licencia: Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Lo que esto significa: Puedes copiar, distribuir y modificar este material libremente, siempre que menciones la autoría original, no lo uses con fines comerciales y compartas tus versiones derivadas bajo esta misma licencia.</p>\n<p>📩 Contacto Para dudas, sugerencias o compartir resultados, podéis contactar a través de: Email: rmolarr631@g.educaand.es </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777667199718-rj89wabe4</odePageId>
+      <odeBlockId>block-1777719182621-0tcibu4l8</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777667199718-rj89wabe4</odePageId>
+          <odeBlockId>block-1777719182621-0tcibu4l8</odeBlockId>
+          <odeIdeviceId>idevice-1777719182616-9rb87y5u3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">UNA ECONOMÍA SIN FRONTERAS</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Vivimos en un mundo globalizado donde los productos, las empresas y el empleo están conectados a escala mundial, influyendo directamente en nuestra vida cotidiana. En esta Situación de Aprendizaje analizaremos cómo funciona la economía global, estudiando conceptos como la globalización, las multinacionales y su impacto en nuestro entorno cercano. Como producto final, investigaremos una empresa y elaboraremos una presentación en la que valoraremos de forma crítica su papel en la economía actual.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">REGINA MOLINA ARREBOLA</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
